@@ -121,7 +121,7 @@ Wanderlust is a web application designed to help users discover and share unique
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishi-kumar-197360410/)
-[![Email](https://img.shields.io/badge/Email-7DD3FC?style=for-the-badge&logo=gmail&logoColor=black)](mailto:rishikumar852125@gmail.com)
+[![Email](https://img.shields.io/badge/Email-7DD3FC?style=for-the-badge&logo=gmail&logoColor=black)](mailto:rishikumar852125@gmail.com?subject=Mail%20from%20our%20Website)
 
 </div>
 
