@@ -123,7 +123,7 @@ Wanderlust is a web application designed to help users discover and share unique
 
 <div align="center">
 
-![Snake animation](https://github.com/Rishi-Kumar85/Rishi-Kumar85/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Rishi-Kumar85/Rishi-Kumar85/blob/output/dist/github-contribution-grid-snake.svg)
 
 </div>
 
