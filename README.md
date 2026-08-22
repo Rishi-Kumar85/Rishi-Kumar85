@@ -48,7 +48,6 @@ Wanderlust is a web application designed to help users discover and share unique
 
 <div align="left">
   <a href="https://github.com/Rishi-Kumar85/Major-Project-Wanderlust">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishi-Kumar85&repo=Major-Project-Wanderlust&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="Wanderlust">
   </a>
 </div>
 
@@ -104,18 +103,7 @@ Wanderlust is a web application designed to help users discover and share unique
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rishi-Kumar85&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c0caf5" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi-Kumar85&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c0caf5" height="165"/>
-
 <img src="https://streak-stats.demolab.com?user=Rishi-Kumar85&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub Streak"/>
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=Rishi-Kumar85&theme=nord&no-frame=true&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B)
 
 </div>
 
