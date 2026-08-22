@@ -94,6 +94,7 @@ Wanderlust is a web application designed to help users discover and share unique
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA500?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Rishi_Kumar8521/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/rishikumar9dh)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4D82?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/rishi_kumar85 )
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4D82?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/rishi_kumar85)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F1C3F?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Rishi-Kumar)
 
 </div>
