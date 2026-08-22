@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=220&section=header&text=Rishi%20Kumar&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=220&section=header&text=Rishi%20Kumar&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+%7C+SQL+%7C+AI+%2F+ML+Enthusiast;Building+Wanderlust+%F0%9F%8C%8D;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+%7C+SQL+%7C+AI+%2F+ML+Enthusiast;Building+Scalable+Web+Applications">
 </a>
 
 <br/>
@@ -48,7 +48,7 @@ Wanderlust is a web application designed to help users discover and share unique
 
 <div align="left">
   <a href="https://github.com/Rishi-Kumar85/Major-Project-Wanderlust">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishi-Kumar85&repo=Major-Project-Wanderlust&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="Wanderlust Repo Card"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishi-Kumar85&repo=Major-Project-Wanderlust&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="Wanderlust">
   </a>
 </div>
 
@@ -87,6 +87,19 @@ Wanderlust is a web application designed to help users discover and share unique
 
 <br/>
 
+## 💻 Coding Platforms
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA500?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishikumar/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/rishikumar/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4D82?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/rishikumar)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F1C3F?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/rishikumar)
+
+</div>
+
+<br/>
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -102,7 +115,15 @@ Wanderlust is a web application designed to help users discover and share unique
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rishi-Kumar85&theme=nord&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+![Trophy](https://github-profile-trophy.vercel.app/?username=Rishi-Kumar85&theme=nord&no-frame=true&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B)
+
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://github.com/Rishi-Kumar85/Rishi-Kumar85/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
