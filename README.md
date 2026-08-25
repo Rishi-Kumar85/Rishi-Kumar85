@@ -220,8 +220,8 @@ I regularly practice **Data Structures & Algorithms** and competitive programmin
 ### 📈 Contribution Activity Graph
 
 <div align="center">
-    
-[![GitHub Activity Graph](https://github-readme-activity-graph-git-main-rishikumar852125-1856.vercel.app/graph?username=Rishi-Kumar85&theme=react-dark&hide_border=true&area=true)](https://github-readme-activity-graph-git-main-rishikumar852125-1856.vercel.app/graph?username=Rishi-Kumar85&theme=react-dark&hide_border=true&area=true)
+
+<img src="https://github-readme-activity-graph-git-main-rishikumar852125-1856.vercel.app/graph?username=Rishi-Kumar85&theme=react-dark&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph"/>
 
 </div>
 
