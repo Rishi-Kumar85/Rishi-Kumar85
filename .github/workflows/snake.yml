@@ -42,10 +42,15 @@ jobs:
         with:
           username: ${{ github.repository_owner }}
           options: theme=react-dark&hide_border=true&area=true
-          output_path: dist/activity-graph.svg
+          output_path: activity-graph.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # 🚀 Publish everything together
+      - name: Move Activity Graph
+        run: |
+          mkdir -p dist
+          cp activity-graph.svg dist/activity-graph.svg
+
+      # 🚀 Publish everything
       - name: Deploy Profile Graphics
         uses: peaceiris/actions-gh-pages@v4
         with:
