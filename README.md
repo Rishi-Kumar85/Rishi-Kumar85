@@ -136,6 +136,15 @@ Actively solving problems and improving my DSA skills across multiple platforms:
 
 <img src="https://streak-stats.demolab.com?user=Rishi-Kumar85&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub Streak" width="100%"/>
 
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rishi-Kumar85&theme=nord_dark" width="100%" alt="Profile Summary"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rishi-Kumar85&theme=nord_dark" width="48%" alt="GitHub Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rishi-Kumar85&theme=nord_dark&utc=true" width="48%" alt="Productive Time"/>
+
 </div>
 
 ## 🐍 Contribution Snake
@@ -143,14 +152,6 @@ Actively solving problems and improving my DSA skills across multiple platforms:
 <div align="center">
 
 ![snake gif](https://github.com/Rishi-Kumar85/Rishi-Kumar85/blob/output/github-snake-dark.svg)
-
-</div>
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishi-Kumar85&theme=react-dark&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Activity"/>
 
 </div>
 
