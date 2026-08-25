@@ -247,10 +247,9 @@ I regularly practice **Data Structures & Algorithms** and competitive programmin
 
 <div align="center">
 
-<img src="https://github.com/Rishi-Kumar85/Rishi-Kumar85/blob/output/github-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/Rishi-Kumar85/Rishi-Kumar85/output/github-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
 
 </div>
-
 ---
 
 ## 💼 Let's Collaborate
