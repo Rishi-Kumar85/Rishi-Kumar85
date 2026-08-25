@@ -224,6 +224,9 @@ I regularly practice **Data Structures & Algorithms** and competitive programmin
 [![Rishi_Kumar_contribution_graph](https://github-readme-activity-graph-git-main-rishikumar852125-1856.vercel.app/graph?username=Rishi-Kumar85&theme=github-compact&hide_border=true&area=true)](https://github-readme-activity-graph-git-main-rishikumar852125-1856.vercel.app/graph?username=Rishi-Kumar85&theme=github-compact&hide_border=true&area=true)
 
 </div>
+
+<br/>
+
 ### 📊 GitHub Statistics
 
 <div align="center">
