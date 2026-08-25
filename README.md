@@ -221,7 +221,7 @@ I regularly practice **Data Structures & Algorithms** and competitive programmin
 
 <div align="center">
     
-[![Rishi Kumar's GitHub activity graph](https://github-readme-activity-graph-git-main-rishikumar852125-1856.vercel.app/graph?username=Rishi-Kumar85)](https://github.com/Rishi-Kumar85)
+[![Rishi Kumar's github activity graph](https://github-readme-activity-graph-git-main-rishikumar852125-1856.vercel.app/graph?username=Rishi-Kumar85)](https://github.com/Rishi-Kumar85)
 
 </div>
 
