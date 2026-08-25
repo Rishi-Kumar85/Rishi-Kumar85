@@ -211,9 +211,15 @@ I regularly practice **Data Structures & Algorithms** and competitive programmin
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Rishi-Kumar85&theme=nord&hide_border=false&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" width="90%" alt="GitHub Streak"/>
+<img
+  src="https://streak-stats.demolab.com?user=Rishi-Kumar85&theme=nord&hide_border=true&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc"
+  width="90%"
+  alt="GitHub Streak"
+/>
 
 </div>
+
+<br/>
 
 ### 📈 Contribution Activity Graph
 
@@ -222,7 +228,7 @@ I regularly practice **Data Structures & Algorithms** and competitive programmin
 <img
   src="https://github-readme-activity-graph-git-main-rishikumar852125-1856.vercel.app/graph?username=Rishi-Kumar85&theme=github-compact&hide_border=true&area=true"
   width="100%"
-  alt="Rishi Kumar GitHub Activity Graph"
+  alt="GitHub Activity Graph"
 />
 
 </div>
