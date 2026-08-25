@@ -219,7 +219,11 @@ I regularly practice **Data Structures & Algorithms** and competitive programmin
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishi-Kumar85&bg_color=0d1117&color=7dd3fc&line=0ea5e9&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
+<img
+  src="https://github-readme-activity-graph-git-main-rishikumar852125-1856.vercel.app/graph?username=Rishi-Kumar85&theme=github-compact&hide_border=true&area=true"
+  width="100%"
+  alt="Rishi Kumar GitHub Activity Graph"
+/>
 
 </div>
 
