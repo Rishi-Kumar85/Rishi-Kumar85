@@ -221,7 +221,7 @@ I regularly practice **Data Structures & Algorithms** and competitive programmin
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph-git-main-rishikumar852125-1856.vercel.app/graph?username=Rishi-Kumar85&theme=react-dark&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph"/>
+![GitHub Activity Graph](https://github-readme-activity-graph-git-main-rishikumar852125-1856.vercel.app/graph?username=Rishi-Kumar85&theme=react-dark&hide_border=true&area=true)
 
 </div>
 
