@@ -23,6 +23,22 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
+      # Create the directory first
+      - name: Prepare output directory
+        run: mkdir -p dist
+
+      # 📈 Generate Activity Graph FIRST
+      - name: Generate Activity Graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: ${{ github.repository_owner }}
+          options: theme=react-dark&hide_border=true&area=true
+          output_path: activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Move Activity Graph
+        run: cp activity-graph.svg dist/activity-graph.svg
+
       # 🐍 Generate Snake
       - name: Generate Contribution Snake
         uses: Platane/snk@v3
@@ -35,20 +51,6 @@ jobs:
 
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      # 📈 Generate Activity Graph
-      - name: Generate Activity Graph
-        uses: maurodesouza/github-readme-activity-graph-action@v1
-        with:
-          username: ${{ github.repository_owner }}
-          options: theme=react-dark&hide_border=true&area=true
-          output_path: activity-graph.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Move Activity Graph
-        run: |
-          mkdir -p dist
-          cp activity-graph.svg dist/activity-graph.svg
 
       # 🚀 Publish everything
       - name: Deploy Profile Graphics
