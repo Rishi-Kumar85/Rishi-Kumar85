@@ -1,184 +1,295 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=220&section=header&text=Rishi%20Kumar&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20AI%2FML%20Enthusiast" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=220&section=header&text=Rishi%20Kumar&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&descSize=18" width="100%" alt="Rishi Kumar Header"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+%7C+SQL+%7C+AI+%2F+ML+Enthusiast;Building+Tomorrow's+Web;Turning+Ideas+Into+Reality" alt="Typing Animation"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+%7C+SQL+%7C+AI%2FML+Enthusiast;Building+Scalable+Web+Applications;Turning+Ideas+Into+Reality" alt="Typing SVG"/>
 
 <br/>
 
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-7DD3FC?style=for-the-badge&logo=briefcase&logoColor=black)
+<img src="https://img.shields.io/badge/Open%20to%20Work-7DD3FC?style=for-the-badge&logo=briefcase&logoColor=black" alt="Open to Work"/>
 
-<br/>
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Rishi-Kumar85&color=7dd3fc&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Rishi-Kumar85?color=7dd3fc&style=for-the-badge&label=FOLLOWERS&logo=github)
+<img src="https://komarev.com/ghpvc/?username=Rishi-Kumar85&color=7dd3fc&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/Rishi-Kumar85?color=7dd3fc&style=for-the-badge&label=FOLLOWERS&logo=github" alt="Followers"/>
 
 </div>
 
-<br/>
+---
 
-## 📑 Table of Contents
-- [Who I Am](#-who-i-am)
-- [Featured Projects](#-featured-projects)
-- [Tech Stack](#️-tech-stack)
-- [Currently Learning](#-currently-learning)
-- [Coding Platforms](#-coding-platforms)
-- [GitHub Stats](#-github-stats)
-- [Let's Collaborate](#-lets-collaborate)
-- [Connect With Me](#-connect-with-me)
+## 👨‍💻 About Me
 
-<br/>
+Hi! I'm **Rishi Kumar**, a passionate **Full Stack Developer** focused on building practical, user-centric web applications.
 
-## 🧑‍💻 Who I Am
+I enjoy working across the entire development lifecycle — from designing responsive interfaces to building backend APIs, managing databases, and deploying applications.
 
-I'm a passionate **Full Stack Developer** with expertise in the MERN stack and SQL databases. I love building user-centric web applications that combine elegant design with robust backend architecture. I'm enthusiastic about AI/ML and constantly exploring new technologies to create innovative solutions.
+I'm also actively strengthening my **Data Structures & Algorithms** skills and exploring **AI/ML integration with web applications**.
 
-```typescript
+```javascript
 const rishiKumar = {
-  title: "Full Stack Developer",
-  stack: {
-    languages: ["HTML", "CSS", "JavaScript", "SQL"],
-    frontend: ["React"],
-    backend: ["Node.js"],
-    database: ["MongoDB", "SQL"],
-    interests: ["AI", "Machine Learning", "Web Performance", "Cloud Architecture"]
-  },
-  launchedProjects: ["Wanderlust - Travel Discovery Platform"],
-  status: "Building and shipping full stack projects",
-  openTo: ["Full Time Roles", "Full Stack Development", "Collaboration", "Open Source"]
+    role: "Full Stack Developer",
+
+    languages: [
+        "C++",
+        "JavaScript",
+        "SQL",
+        "HTML",
+        "CSS"
+    ],
+
+    frontend: [
+        "React"
+    ],
+
+    backend: [
+        "Node.js",
+        "Express.js"
+    ],
+
+    databases: [
+        "MongoDB",
+        "MySQL"
+    ],
+
+    currentlyLearning: [
+        "Generative AI",
+        "Agentic AI",
+        "Machine Learning",
+        "Cloud Deployment"
+    ],
+
+    interests: [
+        "Full Stack Development",
+        "DSA & Problem Solving",
+        "AI/ML",
+        "Web Performance",
+        "System Design"
+    ],
+
+    goal: "Build impactful software and continuously improve."
 };
 ```
 
-<br/>
+---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
-### 🌍 Wanderlust - Travel Discovery Platform
+### 🌍 Wanderlust — Travel Discovery Platform
 
-Wanderlust is a full-stack web application that empowers users to discover, share, and explore unique travel destinations worldwide. Built with modern web technologies, it features real-time location mapping, secure user authentication, and community-driven reviews.
+A full-stack travel platform where users can **discover, share and review travel destinations**.
 
-**Key Features:**
-- 🗺️ Interactive geolocation mapping
-- 📸 Image upload and gallery management
-- ⭐ User reviews and ratings
-- 🔐 Secure authentication
-- 💾 Persistent data with MongoDB
+**Key Features**
 
-| Layer      | Technology            |
-|------------|------------------------|
-| Frontend   | HTML, CSS, JavaScript  |
-| Backend    | Node.js, Express       |
-| Database   | MongoDB                |
-| Hosting    | Render                 |
+* 🗺️ Interactive location mapping
+* 📸 Image upload and gallery management
+* ⭐ Reviews and ratings
+* 🔐 Secure authentication
+* 💾 MongoDB database
+* 📱 Responsive user interface
+* ☁️ Deployed application
 
-🔗 **Live Demo:** [major-project-wanderlust-bp6e.onrender.com](https://major-project-wanderlust-bp6e.onrender.com/)  
-💻 **Source Code:** [GitHub Repository](https://github.com/Rishi-Kumar85/Major-Project-Wanderlust)
+| Layer    | Technology            |
+| -------- | --------------------- |
+| Frontend | HTML, CSS, JavaScript |
+| Backend  | Node.js, Express.js   |
+| Database | MongoDB               |
+| Mapping  | Mapbox                |
+| Hosting  | Render                |
 
-<br/>
+<div align="center">
+
+<a href="https://major-project-wanderlust-bp6e.onrender.com/">
+<img src="https://img.shields.io/badge/Live%20Demo-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"/>
+</a>
+
+<a href="https://github.com/Rishi-Kumar85/Major-Project-Wanderlust">
+<img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+</a>
+
+</div>
+
+---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### 💻 Languages
 
-![Skills](https://skillicons.dev/icons?i=html,css,js,sql&theme=dark)
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,html,css,js,sql&theme=dark" alt="Languages"/>
+</p>
 
-**Frontend**
+### 🎨 Frontend
 
-![Skills](https://skillicons.dev/icons?i=react&theme=dark)
+<p>
+<img src="https://skillicons.dev/icons?i=react&theme=dark" alt="Frontend"/>
+</p>
 
-**Backend / Infra**
+### ⚙️ Backend
 
-![Skills](https://skillicons.dev/icons?i=nodejs,express&theme=dark)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend"/>
+</p>
 
-**Database**
+### 🗄️ Databases
 
-![Skills](https://skillicons.dev/icons?i=mongodb,mysql&theme=dark)
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" alt="Databases"/>
+</p>
 
-**AI / ML**
+### 🤖 AI / ML
 
-![AI/ML](https://img.shields.io/badge/AI%20%2F%20ML-7DD3FC?style=for-the-badge&logo=googlecolab&logoColor=black)
+<p>
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-7DD3FC?style=for-the-badge&logo=googlecolab&logoColor=black" alt="AI ML"/>
+</p>
 
-**Tools & Platforms**
+### 🔧 Tools
 
-![Skills](https://skillicons.dev/icons?i=git,github,vscode&theme=dark)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Tools"/>
+</p>
 
-<br/>
+---
 
 ## 📚 Currently Learning
 
-- 🚀 **TypeScript & Advanced React Patterns** - Building more scalable and maintainable applications
-- 🏗️ **System Design & Microservices** - Architecting large-scale systems
-- ☁️ **Cloud Deployment (AWS/Azure)** - Deploying and managing cloud infrastructure
-- 🤖 **Machine Learning & AI Integration** - Incorporating ML models into web applications
+<tr>
+<td>🏗️</td>
+<td><b>System Design</b></td>
+<td>Learning how large-scale applications are designed</td>
+</tr>
 
-<br/>
+<tr>
+<td>☁️</td>
+<td><b>Cloud & Deployment</b></td>
+<td>Exploring AWS, Azure and production deployments</td>
+</tr>
 
-## 💻 Coding Platforms
+<tr>
+<td>🤖</td>
+<td><b>AI / Machine Learning</b></td>
+<td>Understanding ML concepts and integrating AI into applications</td>
+</tr>
 
-Actively solving problems and improving my DSA skills across multiple platforms:
+<tr>
+<td>🧠</td>
+<td><b>DSA</b></td>
+<td>Improving problem-solving and algorithmic thinking</td>
+</tr>
+</table>
+
+---
+
+## 🧠 Coding & Problem Solving
+
+I regularly practice **Data Structures & Algorithms** and competitive programming to improve my problem-solving skills.
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA500?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Rishi_Kumar8521/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/rishikumar9dh)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4D82?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/rishi_kumar85)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F1C3F?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Rishi-Kumar)
+<a href="https://leetcode.com/u/Rishi_Kumar8521/">
+<img src="https://img.shields.io/badge/LeetCode-FFA500?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/rishikumar9dh">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+</a>
+
+<a href="https://www.codechef.com/users/rishi_kumar85">
+<img src="https://img.shields.io/badge/CodeChef-5B4D82?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+</a>
+
+<a href="https://codeforces.com/profile/Rishi-Kumar">
+<img src="https://img.shields.io/badge/Codeforces-1F1C3F?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+</a>
 
 </div>
 
-<br/>
+---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
+
+### 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Rishi-Kumar85&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub Streak" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=Rishi-Kumar85&theme=nord&hide_border=false&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" width="90%" alt="GitHub Streak"/>
 
-<br/>
+</div>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rishi-Kumar85&theme=nord_dark" width="100%" alt="Profile Summary"/>
+### 📈 Contribution Activity Graph
 
-<br/>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishi-Kumar85&bg_color=0d1117&color=7dd3fc&line=0ea5e9&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
+
+</div>
+
+### 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rishi-Kumar85&theme=nord_dark" width="100%" alt="Profile Details"/>
+
+<br/><br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rishi-Kumar85&theme=nord_dark" width="48%" alt="GitHub Stats"/>
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rishi-Kumar85&theme=nord_dark&utc=true" width="48%" alt="Productive Time"/>
 
 </div>
+
+---
 
 ## 🐍 Contribution Snake
 
 <div align="center">
 
-![snake gif](https://github.com/Rishi-Kumar85/Rishi-Kumar85/blob/output/github-snake-dark.svg)
+<img src="https://github.com/Rishi-Kumar85/Rishi-Kumar85/blob/output/github-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
 
 </div>
 
-<br/>
+---
 
-## 💼 Let's Collaborate!
+## 💼 Let's Collaborate
 
-I'm actively seeking **Full Stack Developer** opportunities and open to exciting projects. Whether you have a unique product idea, need a full-stack solution, or want to discuss web development trends, I'd love to connect!
+I'm currently looking for opportunities where I can **learn, build and contribute to meaningful products**.
 
-### What I'm Looking For:
-- 🎯 Full Stack Development roles
-- 🚀 Impactful projects with growth potential
-- 🤝 Collaboration on open-source initiatives
-- 💡 Mentorship and knowledge sharing opportunities
+### 🎯 I'm Interested In
 
-<br/>
+* 💻 Full Stack Development roles
+* 🚀 Building impactful products
+* 🤝 Open-source collaboration
+* 🧠 DSA & problem-solving communities
+* 🤖 AI/ML + Web Development projects
+* 🌱 Learning from experienced developers
+
+If you're building something interesting, **let's connect!**
+
+---
 
 ## 🔗 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishi-kumar-197360410/)
-[![Email](https://img.shields.io/badge/Email-7DD3FC?style=for-the-badge&logo=gmail&logoColor=black)](mailto:rishikumar852125@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rishi-Kumar85)
+<a href="https://www.linkedin.com/in/rishi-kumar-197360410/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:[rishikumar852125@gmail.com](mailto:rishikumar852125@gmail.com)">
+<img src="https://img.shields.io/badge/Email-7DD3FC?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/>
+</a>
+
+<a href="https://github.com/Rishi-Kumar85">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
 </div>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=120&section=footer&animation=twinkling" width="100%"/>
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=120&section=footer&animation=twinkling" width="100%" alt="Footer"/>
+
+</div>
