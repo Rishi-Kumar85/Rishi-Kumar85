@@ -72,7 +72,7 @@ const rishiKumar = {
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### 🌍 Wanderlust — Travel Discovery Platform
 
@@ -103,6 +103,49 @@ A full-stack travel platform where users can **discover, share and review travel
 </a>
 
 <a href="https://github.com/Rishi-Kumar85/Major-Project-Wanderlust">
+<img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+</a>
+
+</div>
+
+---
+
+### 🛡️ SafeReport — Safety Incident Reporting Platform
+
+A modern web application designed to provide users with a **secure and user-friendly platform for reporting and managing safety-related incidents**.
+
+**Key Features**
+
+* 🔐 Supabase authentication
+* 📝 Safety incident reporting
+* 📋 Report management
+* 🔎 Report tracking
+* 📊 Data visualization
+* 📱 Responsive user interface
+* 🎨 Modern component-based UI
+* 🔔 Toast notifications
+* ✅ Form validation
+
+| Layer       | Technology |
+| ----------- | ---------- |
+| Frontend    | React, TypeScript |
+| Build Tool  | Vite |
+| Styling     | Tailwind CSS |
+| UI          | Radix UI, shadcn/ui |
+| Backend     | Supabase |
+| Database    | Supabase |
+| Forms       | React Hook Form, Zod |
+| Charts      | Recharts |
+| Routing     | React Router |
+| Deployment  | Vercel / Render |
+
+<div align="center">
+
+<a href="https://safe-report-major-project.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"/>
+</a>
+
+<a href="https://github.com/Rishi-Kumar85/SafeReport-Major-Project">
 <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
 </a>
 
@@ -250,6 +293,7 @@ I regularly practice **Data Structures & Algorithms** and competitive programmin
 <img src="https://raw.githubusercontent.com/Rishi-Kumar85/Rishi-Kumar85/output/github-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
 
 </div>
+
 ---
 
 ## 💼 Let's Collaborate
@@ -277,7 +321,7 @@ If you're building something interesting, **let's connect!**
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="mailto:[rishikumar852125@gmail.com](mailto:rishikumar852125@gmail.com)">
+<a href="mailto:rishikumar852125@gmail.com">
 <img src="https://img.shields.io/badge/Email-7DD3FC?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/>
 </a>
 
